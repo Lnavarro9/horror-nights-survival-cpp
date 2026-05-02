@@ -9,6 +9,8 @@ Built to simulate real-time decision-making under pressure using C++ logic and s
 
 ![Gameplay Demo](demo.gif.gif)
 
+This demo shows how player decisions dynamically affect fear, energy, and survival outcomes.
+
 ## 🧠 Features
 
 - Decision-based survival system  
