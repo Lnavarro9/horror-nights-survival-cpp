@@ -7,7 +7,7 @@ Built to simulate real-time decision-making under pressure using C++ logic and s
 ---
 ## 🎥 Demo
 
-![Gameplay Demo](demo.gif)
+![Gameplay Demo](demo.gif.gif)
 
 ## 🧠 Features
 
