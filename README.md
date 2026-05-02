@@ -5,6 +5,9 @@ A C++ console-based simulation game where the player must survive a full night a
 Built to simulate real-time decision-making under pressure using C++ logic and state management.
 
 ---
+## 🎥 Demo
+
+![Gameplay Demo](demo.gif)
 
 ## 🧠 Features
 
